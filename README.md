@@ -17,3 +17,8 @@ This project builds and deploys a machine learning pipeline to classify penguin 
 
   Install Dependencies : uv pip install -r requirements.txt
   Start the API: uvicorn app.main:app --reload
+
+Video Link
+https://youtu.be/nxYx-tK8hsM
+
+https://youtu.be/ulL62phMwK0
