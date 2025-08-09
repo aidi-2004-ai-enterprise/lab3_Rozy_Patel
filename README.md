@@ -34,7 +34,7 @@ This project implements a machine learning API that classifies penguin species u
 
 ### Key Features
 
-- ** High Accuracy ML Model **: XGBoost classifier trained on Palmer Penguins dataset
+- ** High Accuracy ML Model**: XGBoost classifier trained on Palmer Penguins dataset
 - ** FastAPI REST API**: Modern, fast, and automatic documentation generation
 - ** Cloud Integration**: Google Cloud Storage for model storage and retrieval
 - ** Docker Containerized**: Production-ready container for consistent deployment
@@ -97,6 +97,7 @@ uvicorn app.main:app --host 0.0.0.0 --port 8000 --reload
 - **API Root**: http://localhost:8000
 - **Interactive Docs**: http://localhost:8000/docs
 - **Health Check**: http://localhost:8000/health
+
 
 ###  Docker Deployment
 
